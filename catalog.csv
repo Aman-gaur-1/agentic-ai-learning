@@ -1,0 +1,9 @@
+record_type,product,price,category,tier,percentage
+product,laptop,1299.99,electronics,,
+product,headphones,149.95,electronics,,
+product,monitor,18999,electronics,,
+product,mouse,999,accessories,,
+product,keyboard,89.5,electronics,,
+discount,,,,bronze,5
+discount,,,,silver,12
+discount,,,,gold,23

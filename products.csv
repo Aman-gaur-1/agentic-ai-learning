@@ -1,0 +1,6 @@
+﻿product_name,category,unit_price_inr,stock_quantity,bronze_discount_pct,silver_discount_pct,gold_discount_pct
+Laptop,Electronics,74999,8,5,12,23
+Headphones,Accessories,6999,15,5,10,18
+Keyboard,Accessories,2499,20,4,9,15
+Monitor,Electronics,18999,6,5,11,20
+Mouse,Accessories,999,0,3,7,12
